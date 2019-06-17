@@ -1,9 +1,6 @@
 # LB3
 ***
 
-blavla
-
-
 ## Inhaltsverzeichnis
 ***
 
