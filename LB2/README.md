@@ -78,13 +78,13 @@ Ich habe folgende Test aufgeführt um zu überprüfen ob die VM richtig aufgeset
 Der erste Test ist die Überprüfung ob die VM wirklich  1024 MB RAM zugewissen bekommen hat. Dazu schaute ich in den Einstellungen vom VirtualBox.
 
 
-![](../images/RAM_Test.JPG "RAM Test")
+![](../images/RAM_Test.jpg "RAM Test")
 
 
 Der zweite Test war das Starten/verbinden mit der VM. Dies klappte wunderbar.   
 Der letzte Test war die Überprüfung ab der Apache Server läuft. dazu ging ich auf [127.0.0.1:8080](127.0.0.1:8080). Leider ist die Seite nicht erreichbar.
 
-![](https://github.com/HomebaseCloud/M300/tree/master/images/Verbindung.JPG "Fehlgeschlagene Verbindung")
+![](../images/Verbindung.jpg "Fehlgeschlagene Verbindung")
 
 Laut der Installation ist der Apache Server installiert worden, aber er ist im Verzeichniss nicht zu finden.
 Als ich es später nochmals frisch aufgesetzt habe funktionierte alles.
