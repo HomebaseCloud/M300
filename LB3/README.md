@@ -43,13 +43,13 @@ VOLUME /var/lib/docker/volumes
 
 Zum das ganze zu Überprüfen ob es funktioniert bin ich auf die Webseite gegangen (localhost:2368).
 
-![](../images/Testghost.JPG "Startseite Ghost")
+![](../images/Testghost.jpg "Startseite Ghost")
 
 Dort sieht man die Startseite, um diese zu verändern. Muss man auf localhost:8080 zugreiffen.
 Dort habe ich den Titel vom ersten Blog verändert um zu schauen ob dies funktioniert.    
 
 
-![](../images/Aenderung.JPG "Anpassen vom Titel")
+![](../images/Aenderung.jpg "Anpassen vom Titel")
 
 
 
